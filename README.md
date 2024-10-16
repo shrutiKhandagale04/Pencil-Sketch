@@ -2,9 +2,9 @@ Project Title: Pencil Sketch Image Converter
 Project Description
 The Pencil Sketch Image Converter is a web-based application designed to transform uploaded images into artistic pencil sketches. This project leverages the Flask framework for creating the web interface and OpenCV, a powerful computer vision library, for image processing.
 
-Objectives
-The primary objective of this project is to provide users with an easy and intuitive way to convert their photos into stunning pencil sketches. By utilizing advanced image processing techniques, the application aims to:
+Objectives:
 
+The primary objective of this project is to provide users with an easy and intuitive way to convert their photos into stunning pencil sketches. By utilizing advanced image processing techniques, the application aims to:
 Allow users to upload images through a web interface.
 Process the uploaded images to create a pencil sketch effect.
 Provide a downloadable link for the generated sketch.
